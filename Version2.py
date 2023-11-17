@@ -1,3 +1,5 @@
+# With get_dummies
+
 import random
 import pandas as pd
  
