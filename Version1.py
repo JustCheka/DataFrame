@@ -18,6 +18,5 @@ for i in range(len(unique_elements)):
         else:
             arr.append(0)
     data[f'WhoAmI_{unique_elements[i]}'] = arr
-    arr = []
 
 print(data)
